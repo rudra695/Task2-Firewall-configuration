@@ -1,0 +1,4 @@
++ Server: Apache/2.4.x
++ Missing X-Frame-Options header
++ Directory indexing found
++ HTTP methods allowed: GET, POST, OPTIONS
